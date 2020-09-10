@@ -7,6 +7,6 @@ There are different maps in the folder *maps*
 
 There are also a few **arguments** that you can use:
 
-- ``` -h", "--help" ``` , Help guide
-- ``` -l", "--layout" ``` , The name of the map (*default: square*) 
-- ``` -t", "--time" ``` , The speed (*default: 0.1*)
+- ``` "-h", "--help" ``` , Help guide
+- ``` "-l", "--layout" ``` , The name of the map (*default: square*) 
+- ``` "-t", "--time" ``` , The speed (*default: 0.1*)
